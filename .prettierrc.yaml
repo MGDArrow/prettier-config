@@ -1,0 +1,32 @@
+# Максимальная длина строки
+printWidth: 80
+# Пробелов в табе
+tabWidth: 2
+# Использовать таб вместо пробелов
+useTabs: false
+# Обязательная точка с запятой
+semi: true
+# Одинарные кавычки
+singleQuote: true
+# Свойства в объекте: если хоть одно требует кавычек — все в кавычках
+quoteProps: consistent
+# Запятые в конце свойства объекта
+trailingComma: all
+# Интервал между скобками
+bracketSpacing: true
+# Переводить строку в объекте, если первое свойство с новой строки
+objectWrap: preserve
+# Закрывать первый html тег на новой строке
+bracketSameLine: false
+# Скобки для аргумента стрелочной функции
+arrowParens: always
+# Окончание строки в стиле линукс
+endOfLine: lf
+# Отступы во vue в секциях внутри <script> и <style>
+vueIndentScriptAndStyle: true
+# Форматирование текста внутри скобок (например html в строке)
+embeddedLanguageFormatting: auto
+# Каждый атрибут html тега в одну строку
+singleAttributePerLine: false
+htmlSelfClosing: true
+htmlWhitespaceSensitivity: css
