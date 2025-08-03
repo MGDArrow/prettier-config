@@ -1,0 +1,16 @@
+{
+  "name": "@mgdarrow/prettier-config",
+  "version": "1.1.0",
+  "description": "Конфиг для Prettier от MGDArrow",
+  "keywords": ["MGDArrow"],
+  "type": "module",
+  "exports": "./index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "MGDArrow",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  }
+}
